@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.github.cacf</groupId>
+  <artifactId>apiman-plugins-keycloak-token-authorization-policy</artifactId>
+  <versioning>
+    <release>1.0.0-FINAL</release>
+    <versions>
+      <version>1.0.0-FINAL</version>
+    </versions>
+    <lastUpdated>20181029110239</lastUpdated>
+  </versioning>
+</metadata>
