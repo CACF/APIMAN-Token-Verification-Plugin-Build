@@ -1,0 +1,19 @@
+{
+  "id" : "apiman-token-verification-plugin",
+  "name" : "APIMAN Token Verification plugin for Keycloak",
+  "description" : "This plugin verifies an active user session against the provided token in keycloak.",
+  "version" : "1.0.0-FINAL",
+  "repository" : {
+    "name" : "Github",
+    "url" : "https://github.com/CACF/APIMAN-Token-Verification-Plugin-Build/new/master/1.0.0-FINAL/"
+  },
+  "plugins" : [
+    {
+      "groupId" : "io.github.cacf",
+      "artifactId" : "apiman-plugins-keycloak-token-verification-policy",
+      "version" : "1.0.0-FINAL",
+      "name" : "APIMAN Token Verification plugin for Keycloak",
+      "description" : "This plugin verifies an active user session against the provided token in keycloak."
+    }
+  ]
+}
