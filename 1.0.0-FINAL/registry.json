@@ -4,7 +4,7 @@
   "description" : "This plugin verifies an active user session against the provided token in keycloak.",
   "version" : "1.0.0-FINAL",
   "repository" : {
-    "name" : "Github",
+    "name" : "APIMAN Token Verification plugin for Keycloak",
     "url" : "https://github.com/CACF/APIMAN-Token-Verification-Plugin-Build/new/master/1.0.0-FINAL/"
   },
   "plugins" : [
